@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\bin\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.exe
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\bin\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.deps.json
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\bin\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.runtimeconfig.json
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\bin\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.dll
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\bin\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.pdb
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı_adı_şifre_doğrulaması.Form1.resources
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.AssemblyInfo.cs
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.dll
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\refint\kullanıcı adı şifre doğrulaması.dll
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.pdb
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\kullanıcı adı şifre doğrulaması.genruntimeconfig.cache
+C:\Users\PC\Desktop\görsel programlama\kullanıcı adı şifre doğrulaması\obj\Debug\net6.0-windows\ref\kullanıcı adı şifre doğrulaması.dll
