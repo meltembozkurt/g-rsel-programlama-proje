@@ -1,1 +1,1 @@
-# g-rsel-programlama-proje
+# gorsel-programlama-proje
